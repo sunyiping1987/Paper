@@ -1,4 +1,4 @@
 # Paper
 forecasting acoustic performance
 
-please check tersorflow_code
+please check the code_tersorflow file
